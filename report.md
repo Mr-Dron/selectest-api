@@ -134,14 +134,3 @@ async def get_session() -> AsyncSession:
             await session.rollback() 
             raise 
 ```
-___
-## 6. 
-### 
-
-```
-```
-
-### 
-```
-
-```
